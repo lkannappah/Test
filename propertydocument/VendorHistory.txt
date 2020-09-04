@@ -1,0 +1,34 @@
+			SAI Property, Mumbai
+		============================
+			Vendor History
+		============================
+
+Vendor Ref. No. : 	2
+Date of Registration : 		12/12/2002
+Vensdeor's Name : 		Mrs. Ajay Kumar 
+Address : 		G/2, Station Road, Mumbai, Miraroad - 6546546, India
+Telephone : 		Home : 457855/ 548795; Office : 5798966 Ext : 256; Mobile : 9821035687
+Property Seen By the Client : 
+=================================
+
+No. 		1
+Property No. :	1
+Type : 		Residential
+Adsdress : 	22, BC Road, Mamba, Mira road - 454585, India
+Date/Time : 	2/22/2003 10:02:00 AM
+Like : 		No
+
+No. 		2
+Property No. :	1
+Type : 		Residential
+Adsdress : 	1
+Date/Time : 	2/22/2003 8:30:00 AM
+Like : 		No
+
+No. 		3
+Property No. :	6
+Type : 		Residential
+Adsdress : 	1
+Date/Time : 	2/21/2003 6:34:00 PM
+Like : 		No
+

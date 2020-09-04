@@ -1,0 +1,40 @@
+			SAI Property, Mumbai
+		============================
+			Property History
+		============================
+
+Property Ref. No. : 	Residential / 1
+Date of Registration : 	25-Jan-09 12:16:00 AM
+Address : 		2, BC Road, Mumbai, Subrab - 454585, India
+Vensdeor's Name : 	Name : Mrs. Ajay Kumar Telephone Home : 457855/ 548795; Office : 5798966 Ext : 256; Mobile : 9821035687
+Property Seen By the Client : 
+=================================
+
+No. 		1
+Client No. :	6
+Telephone : 		 / 
+Name : 		Mr. Sunil Roy  
+Date/Time : 	08-Feb-09 3:45:00 PM
+Like : 		No
+
+No. 		2
+Client No. :	1
+Telephone : 		6546546/9821578687
+Name : 		Mr. Mahendra Sahu  
+Date/Time : 	27-Jan-09 3:11:00 PM
+Like : 		No
+
+No. 		3
+Client No. :	1
+Telephone : 		6546546/9821578687
+Name : 		Mr. Mahendra Sahu  
+Date/Time : 	22-Feb-03 10:02:00 AM
+Like : 		No
+
+No. 		4
+Client No. :	1
+Telephone : 		6546546/9821578687
+Name : 		Mr. Mahendra Sahu  
+Date/Time : 	22-Feb-03 8:30:00 AM
+Like : 		No
+
